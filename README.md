@@ -21,42 +21,42 @@
 </div>
 
 <div align="center">
-  <h3>🖥️ Frontend Development</h3>
+  <h3>🎨 Frontend Development</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,html,css,sass,tailwind,materialui" />
   </a>
 </div>
 
 <div align="center">
-  <h3>🧰 Backend Development</h3>
+  <h3>🧠 Backend Development</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,expressjs" />
   </a>
 </div>
 
 <div align="center">
-  <h3>🧰 AI/ML</h3>
+  <h3>🤖 AI/ML</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=opencv" />
   </a>
 </div>
 
 <div align="center">
-  <h3>🧰 Database</h3>
+  <h3>![image](https://github.com/sebastianc94/sebastianc94/assets/96353300/16c54a53-f846-463b-b511-adefd7e64813) Database</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
   </a>
 </div>
 
 <div align="center">
-  <h3>🧰 Testing</h3>
+  <h3>🧪 Testing</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=jest" />
   </a>
 </div>
 
 <div align="center">
-  <h3>🧰 Software</h3>
+  <h3> Software</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ai,photoshop" />
   </a>
