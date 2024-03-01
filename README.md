@@ -64,7 +64,7 @@
 <div align="center">
   <h3>🧰 Software</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=Ilustrator,photoshop" />
+    <img src="https://skillicons.dev/icons?i=ai,photoshop" />
   </a>
 </div>
 
