@@ -65,13 +65,13 @@
 ## <img src="https://media.giphy.com/media/0ZPkxtbBrLvpNkPu1v/giphy.gif" width="35"> <b> Connect With Me </b>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/agustin-elisey-larco-04b397236/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Agustín_Elisey_Larco-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile"/>
+  <a href="https://www.linkedin.com/in/sebastian-celsi/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Sebastián_Celsi-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile"/>
   </a>
 </p>
 <p align="center">
-  <a href="mailto:agustinelisey22@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-agustinelisey22%40gmail.com-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <a href="mailto:sebastian.celsi@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-sebastian.celsi@gmail.com-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 
