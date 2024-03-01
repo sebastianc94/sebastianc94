@@ -20,23 +20,65 @@
 ## <img src="https://media.giphy.com/media/bCBZaPWhl515tcyVjo/giphy.gif" width="35"> <b> Technical Skills </b>
 
 <div align="center">
-  <h3>🔖 Web Development Tools</h3>
+  <h3>🖥️ Programming Languages</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,postgres" />
+    <img src="https://skillicons.dev/icons?i=c,java,javascript,typescript,python" />
   </a>
 </div>
 
 <div align="center">
-  <h3>🖥️ Programming Languages</h3>
+  <h3>🖥️ Frontend Development</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,javascript" />
+    <img src="https://skillicons.dev/icons?i=reactjs,html5,css3,sass,tailwind,materialui" />
+  </a>
+</div>
+
+<div align="center">
+  <h3>🧰 Backend Development</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,expressjs" />
+  </a>
+</div>
+
+<div align="center">
+  <h3>🧰 AI/ML</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=opencv" />
+  </a>
+</div>
+
+<div align="center">
+  <h3>🧰 Database</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+  </a>
+</div>
+
+<div align="center">
+  <h3>🧰 Testing</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=jest,mocha" />
+  </a>
+</div>
+
+<div align="center">
+  <h3>🧰 Software</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=Ilustrator,photoshop" />
+  </a>
+</div>
+
+<div align="center">
+  <h3>🧰 Static Site Generators</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs" />
   </a>
 </div>
 
 <div align="center">
   <h3>🧰 Other Tools & Technologies</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,eclipse,linux,git" />
+    <img src="https://skillicons.dev/icons?i=linux,git,vscode,eclipse,netbeans" />
   </a>
 </div>
 
