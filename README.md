@@ -78,7 +78,7 @@
 <div align="center">
   <h3>🧰 Other Tools & Technologies</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,git,vscode,eclipse,netbeans" />
+    <img src="https://skillicons.dev/icons?i=linux,git,vscode,eclipse,nb" />
   </a>
 </div>
 
