@@ -57,7 +57,7 @@
 <div align="center">
   <h3>🧰 Testing</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=jest,mocha" />
+    <img src="https://skillicons.dev/icons?i=jest" />
   </a>
 </div>
 
