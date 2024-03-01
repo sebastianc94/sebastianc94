@@ -13,7 +13,7 @@
 ##  <img src="https://media.giphy.com/media/Lqo3UBlXeHwZDoebKX/giphy.gif" width="35"> <b> About Me </b>
 
 🎓 Computer Science and Web Technologies student at the [Universidad Nacional Del Oeste](https://uno.edu.ar)<br>
-🕵️‍♂️ Aspiring Cybersecurity analyst with a keen interest in web development<br>
+🕵️‍♂️ Aspiring fullstack developer or backend developer with great interest in learning new knowledge of API development<br>
 🚀 Exploring the latest in backend development tech<br>
 🧩 Currently delving into API and database development<br>
 
@@ -29,7 +29,7 @@
 <div align="center">
   <h3>🖥️ Frontend Development</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=reactjs,html5,css3,sass,tailwind,materialui" />
+    <img src="https://skillicons.dev/icons?i=react,html,css,sass,tailwind,materialui" />
   </a>
 </div>
 
