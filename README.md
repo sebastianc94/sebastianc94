@@ -22,7 +22,7 @@
 <div align="center">
   <h3>🔖 Web Development Tools</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,postgres" />
+    <img src="https://skillicons.dev/icons?i=html,nodejs,javascript,bootstrap,tailwind,postgres" />
   </a>
 </div>
 
