@@ -71,14 +71,14 @@
 <div align="center">
   <h3>🧰 Static Site Generators</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs" />
+    <img src="https://skillicons.dev/icons?i=nextjs,netlify" />
   </a>
 </div>
 
 <div align="center">
   <h3>🧰 Other Tools & Technologies</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,git,vscode,eclipse,nb" />
+    <img src="https://skillicons.dev/icons?i=linux,git,vscode,eclipse,npm,debian,windows" />
   </a>
 </div>
 
@@ -105,8 +105,8 @@
   </a>
 </p>
 <p align="center">
-  <a href="mailto:sebastian.celsi@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-sebastian.celsi@gmail.com-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
 
