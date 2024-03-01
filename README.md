@@ -22,7 +22,7 @@
 <div align="center">
   <h3>🔖 Backend Development Tools</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,javascript,postgres,nodejs,prisma,postman,thunder+client,mongodb,zustand" />
+    <img src="https://skillicons.dev/icons?i=html,javascript,postgres,nodejs,prisma,postman,thunder client,mongodb,zustand" />
   </a>
 </div>
 
