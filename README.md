@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Sebastián Celsi </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->A
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Sebastián+Celsi;++;Self-taught+Backend-End+Developer,;Computer+Science+Student,;Love+to+learn+new+stuffs"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Sebastián+Celsi;++;Self-taught+Full-Stack+Developer,;Computer+Science+Student,;Love+to+learn+new+stuffs"></a>
 </p>
 
 
@@ -14,29 +14,36 @@
 
 🎓 Computer Science and Web Technologies student at the [Universidad Nacional Del Oeste](https://uno.edu.ar)<br>
 🕵️‍♂️ Aspiring Cybersecurity analyst with a keen interest in web development<br>
-🚀 Exploring the latest in hacking practices and cutting-edge web tech<br>
-🧩 Currently delving into the intricacies of cybersecurity and web app development<br>
+🚀 Exploring the latest in backend development tech<br>
+🧩 Currently delving into API and database development<br>
 
 ## <img src="https://media.giphy.com/media/bCBZaPWhl515tcyVjo/giphy.gif" width="35"> <b> Technical Skills </b>
 
 <div align="center">
-  <h3>🔖 Web Development Tools</h3>
+  <h3>🔖 Backend Development Tools</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,nodejs,javascript,bootstrap,tailwind,postgres" />
+    <img src="https://skillicons.dev/icons?i=html,javascript,postgres,nodejs,prisma,postman,thunder+client,mongodb,zustand" />
+  </a>
+</div>
+
+<div align="center">
+  <h3>🔖 Frontend Development Tools</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,javascript,tailwind,postgres,materialui,reactjs" />
   </a>
 </div>
 
 <div align="center">
   <h3>🖥️ Programming Languages</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,javascript" />
+    <img src="https://skillicons.dev/icons?i=c,java,javascript,typescript" />
   </a>
 </div>
 
 <div align="center">
   <h3>🧰 Other Tools & Technologies</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,eclipse,linux,git" />
+    <img src="https://skillicons.dev/icons?i=vscode,eclipse,linux,git,npm,prettier" />
   </a>
 </div>
 
