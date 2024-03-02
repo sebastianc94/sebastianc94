@@ -42,7 +42,7 @@
 </div>
 
 <div align="center">
-  <h3>Database</h3>
+  <h3>⚡️Database</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
   </a>
@@ -56,14 +56,14 @@
 </div>
 
 <div align="center">
-  <h3> Software</h3>
+  <h3>💻 Software</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ai,photoshop" />
   </a>
 </div>
 
 <div align="center">
-  <h3>🧰 Static Site Generators</h3>
+  <h3>🖥 Static Site Generators</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nextjs,netlify" />
   </a>
