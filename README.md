@@ -42,7 +42,7 @@
 </div>
 
 <div align="center">
-  <h3>![image](https://github.com/sebastianc94/sebastianc94/assets/96353300/16c54a53-f846-463b-b511-adefd7e64813) Database</h3>
+  <h3>Database</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
   </a>
@@ -52,7 +52,7 @@
   <h3>🧪 Testing</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=jest" />
-  </a>
+  </a><a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a>
 </div>
 
 <div align="center">
