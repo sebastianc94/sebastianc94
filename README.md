@@ -52,7 +52,7 @@
   <h3>🧪 Testing</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=jest" />
-  </a><a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a>
+  </a><a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="60" height="60"/> </a>
 </div>
 
 <div align="center">
